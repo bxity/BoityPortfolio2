@@ -180,8 +180,11 @@ section {
 
 .section__text__p1 {
     text-align: center;
-    font-size: 1.75rem;
-    margin-bottom: 1rem;
+}
+
+.section__text__p2 {
+  font-size: 1.75rem;
+  margin-bottom: 1rem;
 }
 
 .title {
