@@ -309,7 +309,7 @@ section {
   color: rgb(85, 85, 85);
   font-weight: 600;
   font-size: 1.75rem;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
 }
 
 .experience-details-container {
@@ -320,10 +320,10 @@ section {
 
 .article-container {
   display: flex;
-  text-align: center;
+  text-align: initial;
   flex-wrap: wrap;
   flex-direction: row;
-  gap: 1rem;
+  gap: 2.5rem;
   justify-content: space-around;
 }
 
